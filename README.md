@@ -5,6 +5,7 @@ Now exploring distributed systems, ML infrastructure, and AI agents, and learnin
 
 **Currently contributing to [Flyte](https://github.com/flyteorg/flyte)**, the Kubernetes-native orchestration platform for ML and AI workflows:
 
+- [feat(sentry): report active runs, actions and apps gauges](https://github.com/flyteorg/flyte/pull/8344)
 - [feat(runs): add ActionRepo.CountActiveActionsByPhase](https://github.com/flyteorg/flyte/pull/8259)
 - [feat(sentry): add sentryutils.Gauge helper](https://github.com/flyteorg/flyte/pull/8248)
 - [fix(devbox): match FLYTE_DEV case-insensitively in bootstrap](https://github.com/flyteorg/flyte/pull/8236)
